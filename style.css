@@ -1,0 +1,11 @@
+.main_body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: aqua;
+}
+
+.info {
+    color: blue;
+}
